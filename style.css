@@ -1,8 +1,8 @@
 body {
     font-size: 15px;
-    color: white;
 }
 div.flowers {
     background: url("http://theartmad.com/wp-content/uploads/2015/03/Spring-Flowers-Wallpaper-23.jpg");
-    height: 200px; width: 200px;
+    height: 1200px; width: 100%;
+    color: white;
 }
