@@ -1,9 +1,9 @@
 body {
-    font-size: 15px;
+    font-size: 20px;
 }
 
 div.flowers {
-    background: url("http://41.media.tumblr.com/fbb71b2b875d44b4345927ea65dbddd2/tumblr_n0qwj93HOD1ra6jfio1_540.jpg");
+    background: url("https://41.media.tumblr.com/0ea054ae45b02dfc3bd6805cc427218d/tumblr_nud1act17u1ra6jfio1_1280.jpg") no-repeat;
     height: 1200px; width: 100%;
     color: white;
 }
